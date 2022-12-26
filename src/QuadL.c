@@ -1,5 +1,5 @@
 //
-#include "myLib.h"
+#include "QuadL.h"
 
 extern void cgqf_f77_(int *rule, int *order, double *x, double *w);
 

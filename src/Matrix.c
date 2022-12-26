@@ -1,5 +1,5 @@
 //
-#include "myLib.h"
+#include "Matrix.h"
 
 void allocateMatrix(Matrix *A, int rows, int cols){
     assert(A->isAllocated==0);

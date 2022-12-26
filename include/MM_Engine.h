@@ -3,6 +3,8 @@
 
 // Includes
 #include "myLib.h"
+#include "Matrix.h"
+#include "Shape.h"
 
 // Definitions
 typedef struct integrandArgs integrandArgs;

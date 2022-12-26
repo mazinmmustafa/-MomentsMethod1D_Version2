@@ -1,5 +1,5 @@
 //
-#include "myLib.h"
+#include "Vector.h"
 
 double magVector(Vector A){
     return sqrt(A.x*A.x+A.y*A.y+A.z*A.z);

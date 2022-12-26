@@ -1,5 +1,6 @@
 //
-#include "myLib.h"
+#include "Shape.h"
+#include "Vector.h"
 
 int portCounter=0;
 

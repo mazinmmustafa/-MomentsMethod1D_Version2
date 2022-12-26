@@ -3,6 +3,7 @@
 
 // Includes
 #include "myLib.h"
+#include "Vector.h"
 
 // Definitions
 typedef struct Basis Basis;

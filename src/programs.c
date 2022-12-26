@@ -1,5 +1,7 @@
 //
-#include "myLib.h"
+#include "programs.h"
+#include "MM_Engine.h"
+#include "NearFarFields.h"
 
 void VerticalDipoleNearFields(){
     int warnings=1;
