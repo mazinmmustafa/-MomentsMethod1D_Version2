@@ -16,7 +16,7 @@ F77FLG = -Ofast -static -march=native
 # Directories
 BDIR = bin
 HDIR = include
-ODIR = obj
+ODIR = .obj
 SDIR = src
 DDIR = .dep
 
