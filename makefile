@@ -55,4 +55,4 @@ $(ODIR)/%.o: $(SDIR)/%.f
 clean:
 	$(RM) $(BDIR)/$(EXE) $(ODIR)/*.o $(DDIR)/*.d
 
-include $(wildcard $(CDEP))
+-include $(CDEP)
